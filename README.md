@@ -1,9 +1,8 @@
 <p align="center">Olá me chamo jean rodrigues e sou desenvolvedor front-end apaixonado por transformar conceitos criativos em experiências digitais envolventes.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jeanrodriguesof&theme=radical&mode=weekly" />
+![jeanrodriguesof GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanrodriguesof&show_icons=true&theme=tokyonight)
 
- </div>
+
  
  &nbsp;
  &nbsp;
@@ -34,5 +33,6 @@
 <a href="https://www.instagram.com/jean_rodrigues367/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/jean-rodrigues-40295a270/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
