@@ -1,4 +1,4 @@
-<p align="center">Olá me chamo jean rodrigues e sou desenvolvedor front-end apaixonado por transformar conceitos criativos em experiências digitais envolventes.</p>&nbsp;
+<p align="center">Olá me chamo jean rodrigues e sou desenvolvedor front-end.</p>&nbsp;
 
 ![jeanrodriguesof GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanrodriguesof&show_icons=true&theme=radical)
 
